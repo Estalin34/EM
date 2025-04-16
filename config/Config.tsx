@@ -3,13 +3,13 @@ import { getDatabase} from "firebase/database";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAvMu-rsQd-3dq7Tnfo65iGJW4x3BoerBU",
-  authDomain: "movilesii-3c683.firebaseapp.com",
-  databaseURL: "https://movilesii-3c683-default-rtdb.firebaseio.com",
-  projectId: "movilesii-3c683",
-  storageBucket: "movilesii-3c683.firebasestorage.app",
-  messagingSenderId: "109515507669",
-  appId: "1:109515507669:web:00a95f4f84870b87e21f5c"
+  apiKey: "AIzaSyCUaND4mmqmftfokfS3Iq_Bz37XZ0n4Bsk",
+  authDomain: "app-tare1.firebaseapp.com",
+  databaseURL: "https://app-tare1-default-rtdb.firebaseio.com",
+  projectId: "app-tare1",
+  storageBucket: "app-tare1.firebasestorage.app",
+  messagingSenderId: "166311231769",
+  appId: "1:166311231769:web:12b2999a3d74a724bac588"
 };
 
 
